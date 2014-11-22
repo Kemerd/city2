@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\props_skybox\skybox_asphalt_base"
+	"$surfaceprop" "default"
+
+}

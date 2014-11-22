@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\props_skybox\skybox_bldg04b_sg"
+	"$surfaceprop" "default"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\props_skybox\skybox_bldg04b_sg_spec"
+
+
+}

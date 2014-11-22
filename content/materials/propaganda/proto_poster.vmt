@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$decal" 1
+	"$decalscale" ".20"
+	"$basetexture" "propaganda/proto_poster"
+	"$surfaceprop" "Gravel"
+	"%keywords" "poster"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "propaganda/consul1"
+	"$normalmap" "propaganda/consul1_bump"
+	"$surfaceprop" "Gravel"
+	"%keywords" "poster"
+}

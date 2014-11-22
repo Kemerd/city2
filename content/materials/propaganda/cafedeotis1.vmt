@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$decal" 1
+	"$decalscale" ".18"
+	"$basetexture" "propaganda/cafedeotis1"
+	"%keywords" "poster"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
